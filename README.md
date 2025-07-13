@@ -40,6 +40,8 @@ A beautiful, interactive web app built with **Python + Streamlit + Plotly** for 
 
 <img width="1832" height="696" alt="Screenshot 2025-07-13 170839" src="https://github.com/user-attachments/assets/7e4038d1-8e26-4d01-8ee2-9cc26509def4" />
 
+<img width="1809" height="786" alt="image" src="https://github.com/user-attachments/assets/24e03f90-4e4d-4a7a-a1d1-74095702cd20" />
+
 <img width="1697" height="422" alt="Screenshot 2025-07-13 191201" src="https://github.com/user-attachments/assets/69345aab-5581-4743-90f7-359f1f347cfd" />
 
 <img width="1885" height="786" alt="Screenshot 2025-07-13 191119" src="https://github.com/user-attachments/assets/2df12157-29fd-4289-aefa-588778900d73" />
